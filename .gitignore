@@ -1,3 +1,4 @@
 /.venv
 /data
 /resources
+/notebooks/cluster_output

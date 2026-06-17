@@ -1,0 +1,2 @@
+metodo,k,silhouette,davies_bouldin,calinski_harabasz
+MCA (n=2) + MiniBatchKMeans,2,0.4941711108511414,0.8677702125444122,8726.398414432642
